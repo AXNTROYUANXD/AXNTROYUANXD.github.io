@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "张嘉毅 Jiayi Zhang"
+title: "Jiayi Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
