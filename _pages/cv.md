@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* BSc(Eng)(Hons.) and B.M. in E-Commerce Engineering with Law, Joint Programme of Beijing University of Posts and Telecommunications & Queen Mary University of London, First Class Honours, 2018 - 2022
-* MSc(Comp) in Computer Science, The University of Hong Kong, Pass with Distinction, 2022 - 2023
+
 * Ph.D in Computer Science, The University of Hong Kong, Present
+* MSc(Comp) in Computer Science, The University of Hong Kong, Pass with Distinction, 2022 - 2023
+* BSc(Eng)(Hons.) and B.M. in E-Commerce Engineering with Law, Joint Programme of Beijing University of Posts and Telecommunications & Queen Mary University of London, First Class Honours, 2018 - 2022
 
 Work Experience
 ======
