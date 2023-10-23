@@ -9,32 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
+Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc(Eng)(Hons.) and B.M. in E-Commerce Engineering with Law, Joint Programme of Beijing University of Posts and Telecommunications & Queen Mary University of London, First Class Honours, 2018 - 2022
+* MSc(Comp) in Computer Science, The University of Hong Kong, Pass with Distinction, 2022 - 2023
+* Ph.D in Computer Science, The University of Hong Kong, Present
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2023 until Present: Research Assistant
+  * The University of Hong Kong
+  * FPS Games Anti-Cheat
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Research Assistant
+  * University of Michigan
+  * Modern Compiler Construction and Optimization
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -56,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
