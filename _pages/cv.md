@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 
-* Ph.D student in Computer Science, The University of Hong Kong, 2024 - Present
-* MSc(Comp) in Computer Science, The University of Hong Kong, Pass with Distinction, 2022 - 2023
-* BSc(Eng)(Hons.) and B.M. in E-Commerce Engineering with Law, Joint Programme of Beijing University of Posts and Telecommunications & Queen Mary University of London, First Class Honours, 2018 - 2022
+* **Ph.D student in Computer Science**, *The University of Hong Kong*, ***2024 - Present***
+* **MSc(Comp) in Computer Science**, *The University of Hong Kong*, **<ins>Pass with Distinction</ins>**, ***2022 - 2023***
+* **BSc(Eng)(Hons.)** and **B.M. in E-Commerce Engineering with Law**, Joint Programme of *Beijing University of Posts and Telecommunications* and *Queen Mary University of London*, **<ins>First Class Honours</ins>**, ***2018 - 2022***
 
 Work Experience
 ======
-* Jan 2023 until April 2024: Research Assistant
+* **Research Assistant**, ***Jan 2023 - Apr 2024***
   * The University of Hong Kong
   * Game Security
 
@@ -55,7 +55,7 @@ Publications
   
 Service
 ======
-* ACSAC 23' AE Reviewer
+* **ACSAC 23'**, AE Reviewer
 
 Research Interest
 ======
