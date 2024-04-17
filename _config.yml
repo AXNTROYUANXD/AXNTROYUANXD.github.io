@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jiayi Zhang"
-  avatar           : "profile.jpg"
-  bio              : "MSc(Comp), BSc(Eng)(Hons.), B.M."
+  avatar           : "0.jpg" #"profile.jpg"
+  bio              : "PhD Student, MSc(Comp), BSc(Eng)(Hons.), B.M."
   location         : "Hong Kong"
-  employer         :
+  employer         : "Department of Computer Science"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lOlhDFkAAAAJ"
-  email            : "brucejiayi@gmail.com"
+  email            : "brucejiayi@conncet.hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

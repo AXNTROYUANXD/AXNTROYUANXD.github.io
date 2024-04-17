@@ -12,19 +12,19 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Science, The University of Hong Kong, Present
+* Ph.D student in Computer Science, The University of Hong Kong, 2024 - Present
 * MSc(Comp) in Computer Science, The University of Hong Kong, Pass with Distinction, 2022 - 2023
 * BSc(Eng)(Hons.) and B.M. in E-Commerce Engineering with Law, Joint Programme of Beijing University of Posts and Telecommunications & Queen Mary University of London, First Class Honours, 2018 - 2022
 
 Work Experience
 ======
-* Jan 2023 until Present: Research Assistant
+* Jan 2023 until April 2024: Research Assistant
   * The University of Hong Kong
-  * FPS Games Anti-Cheat
+  * Game Security
 
-* Summer 2021: Research Assistant
+<!-- * Summer 2021: Research Assistant
   * University of Michigan
-  * Modern Compiler Construction and Optimization
+  * Modern Compiler Construction and Optimization -->
   
 <!-- Skills
 ======
@@ -53,6 +53,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* ACSAC 23' AE Reviewer
+
+Research Interest
+======
+* Game security with AI
+* Anti-Cheat in Shooter games
+* Next-gen cheat and Anti-Cheat in Shooter games
+* FPS, BR, Hero Shooters
