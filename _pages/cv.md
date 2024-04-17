@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 
-* **Ph.D student in Computer Science**, *The University of Hong Kong*, ***2024 - Present***
-* **MSc(Comp) in Computer Science**, *The University of Hong Kong*, **<ins>Pass with Distinction</ins>**, ***2022 - 2023***
-* **BSc(Eng)(Hons.)** and **B.M. in E-Commerce Engineering with Law**, Joint Programme of *Beijing University of Posts and Telecommunications* and *Queen Mary University of London*, **<ins>First Class Honours</ins>**, ***2018 - 2022***
+* **Ph.D student in Computer Science**, [*The University of Hong Kong*](https://www.hku.hk/), ***2024 - Present***
+* **MSc(Comp) in Computer Science**, [*The University of Hong Kong*](https://www.hku.hk/), **<ins>Pass with Distinction</ins>**, ***2022 - 2023***
+* **BSc(Eng)(Hons.)** and **B.M. in E-Commerce Engineering with Law**, Joint Programme of [*Beijing University of Posts and Telecommunications*](https://www.bupt.edu.cn/index.htm) and [*Queen Mary University of London*](https://www.qmul.ac.uk/), **<ins>First Class Honours</ins>**, ***2018 - 2022***
 
 Work Experience
 ======
