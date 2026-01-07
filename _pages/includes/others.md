@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2024.04 - 2028.03*: PhD, The Univerisity of Hong Kong, Hong Kong. Advised by Prof. Chenxiong Qian.
+- *2024.04 - 2028.03*: PhD, The Univerisity of Hong Kong, Hong Kong. Advised by Chenxiong Qian.
 - *2022.09 - 2023.12*: Master, The Univerisity of Hong Kong, Hong Kong.
 - *2018.09 - 2022.06*: Bachelor, Beijing University of Posts and Telecommunications, Beijing; and Queen Mary University of London, London.
 
