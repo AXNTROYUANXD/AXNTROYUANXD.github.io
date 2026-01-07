@@ -1,5 +1,5 @@
-# 📝 Publications 
-## Project Leader
+# 📃 Publications 
+## 👤 Project Leader
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2026</div><img src='images/pub-xguardian.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,7 +35,7 @@
 </div>
 </div>
 
-## Co-author
+## 👥 Co-author
 - ``USENIX Security 2024`` [Invisibility Cloak: Proactive Defense Against Visual Game Cheating](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-chenxin), Chenxin Sun, Kai Ye, Liangcai Su, **Jiayi Zhang**, Chenxiong Qian \| [**[Slides]**](https://www.usenix.org/system/files/usenixsecurity24_slides-sun-chenxin.pdf) \| [**[Website]**](https://inviscloak.github.io/) \| [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/inviscloak/inviscloak.github.io)
 
 <!-- 
