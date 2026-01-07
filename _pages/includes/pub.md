@@ -5,8 +5,10 @@
 
 <!-- [XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games](TBD) \\
 **Jiayi Zhang**, Chenxin Sun, Yue Gu, Qingyu Zhang, Jiayi Lin, Xiaojiang Du-->
-XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games \\ 
-(To be appear) \\
+
+(To be appear) 
+
+XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games \\
 **Jiayi Zhang**, Chenxin Sun, Chenxiong Qian
 
 [**[Artifacts]**](https://doi.org/10.5281/zenodo.17845614) \| [**[Demo website]**](https://xguardian-anti-cheat.github.io/)
@@ -21,7 +23,7 @@ XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games \\
 [Identify as a Human Does: A Pathfinder of Next-Generation Anti-Cheat Framework for First-Person Shooter Games](https://doi.org/10.1109/TIFS.2025.3635024) \\
 **Jiayi Zhang**, Chenxin Sun, Yue Gu, Qingyu Zhang, Jiayi Lin, Xiaojiang Du, Chenxiong Qian
 
-[**[arxiv]**](https://arxiv.org/pdf/2409.14830) \| [**[Artifacts]**](https://doi.org/10.6084/m9.figshare.25940818) \| [**[Demo website]**](https://hawk-anticheat.github.io/) \| <strong><span class='show_paper_citations' data='lOlhDFkAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**[arxiv]**](https://arxiv.org/pdf/2409.14830) \| [**[Artifacts]**](https://doi.org/10.6084/m9.figshare.25940818) \| [**[Demo website]**](https://hawk-anticheat.github.io/)
 
 </div>
 </div>
