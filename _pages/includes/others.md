@@ -4,7 +4,7 @@
 - *2022.09 - 2023.12*: Master, The Univerisity of Hong Kong, Hong Kong.
 - *2018.09 - 2022.06*: Bachelor, Beijing University of Posts and Telecommunications, Beijing; and Queen Mary University of London, London.
 
-# 💬 Oral Presentations
+# 💬 Talks
 <!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
 - *2021.06*, Audio & Speech Synthesis, Huawei internal talk
 - *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
