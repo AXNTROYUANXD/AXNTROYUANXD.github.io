@@ -1,4 +1,34 @@
+# 📝 Publications 
+## Project Leader
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2026</div><img src='images/pub-xguardian.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+<!-- [XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games](TBD) \\
+**Jiayi Zhang**, Chenxin Sun, Yue Gu, Qingyu Zhang, Jiayi Lin, Xiaojiang Du-->
+XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games (To be appear) \\
+**Jiayi Zhang**, Chenxin Sun, Chenxiong Qian
+
+[**Project Repo**](https://doi.org/10.5281/zenodo.17845614) | [**Demo website**](https://xguardian-anti-cheat.github.io/)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS</div><img src='images/pub-hawk.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Identify as a Human Does: A Pathfinder of Next-Generation Anti-Cheat Framework for First-Person Shooter Games](https://doi.org/10.1109/TIFS.2025.3635024) \\
+**Jiayi Zhang**, Chenxin Sun, Yue Gu, Qingyu Zhang, Jiayi Lin, Xiaojiang Du, Chenxiong Qian
+
+[**arxiv**](https://arxiv.org/pdf/2409.14830) | [**Project Repo**](https://doi.org/10.6084/m9.figshare.25940818) | [**Demo website**](https://hawk-anticheat.github.io/) <strong><span class='show_paper_citations' data='lOlhDFkAAAAJ:d1gkVwhDpl0C'></span></strong>
+
+</div>
+</div>
+
+## Co-author
+- ``USENIX Security 2024`` [Invisibility Cloak: Proactive Defense Against Visual Game Cheating](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-chenxin), Chenxin Sun, Kai Ye, Liangcai Su, **Jiayi Zhang**, Chenxiong Qian. [**Slides**](https://www.usenix.org/system/files/usenixsecurity24_slides-sun-chenxin.pdf) | [**Website**](https://inviscloak.github.io/) | [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/inviscloak/inviscloak.github.io)
+
+<!-- 
 # 📝 Publications 
 ## 🎙 Speech Synthesis
 
@@ -133,4 +163,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## Others
 - `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren** -->
