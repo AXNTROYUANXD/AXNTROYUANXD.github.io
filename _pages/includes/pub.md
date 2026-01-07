@@ -27,7 +27,9 @@ XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games \\
 </div>
 
 ## Co-author
-- ``USENIX Security 2024`` [Invisibility Cloak: Proactive Defense Against Visual Game Cheating](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-chenxin), Chenxin Sun, Kai Ye, Liangcai Su, **Jiayi Zhang**, Chenxiong Qian. [**[Slides]**](https://www.usenix.org/system/files/usenixsecurity24_slides-sun-chenxin.pdf) \| [**[Website]**](https://inviscloak.github.io/) \| [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/inviscloak/inviscloak.github.io)
+- ``USENIX Security 2024`` [Invisibility Cloak: Proactive Defense Against Visual Game Cheating](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-chenxin)\\ 
+Chenxin Sun, Kai Ye, Liangcai Su, **Jiayi Zhang**, Chenxiong Qian\\ 
+[**[Slides]**](https://www.usenix.org/system/files/usenixsecurity24_slides-sun-chenxin.pdf) \| [**[Website]**](https://inviscloak.github.io/) \| [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/inviscloak/inviscloak.github.io)
 
 <!-- 
 # 📝 Publications 
