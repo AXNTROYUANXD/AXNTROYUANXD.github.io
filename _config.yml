@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiayi Zhang"
-description              : "Game Security Researcher | PhD Student @ HKU | MSc(Comp) @ HKU | BSc(Eng)(Hons.) & B.M. @ BUPT & QMUL"
+description              : "Game Security Researcher and REAL FPS Player"
 repository               : "AXNTROYUANXD/AXNTROYUANXD.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiayi Zhang (张嘉毅)"
+  name             : "Jiayi Zhang"
   avatar           : "images/profile_img.jpg"
   bio              : "HKU"
   location         : "Hong Kong"
