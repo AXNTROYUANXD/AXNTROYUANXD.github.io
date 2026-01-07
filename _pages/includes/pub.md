@@ -8,8 +8,13 @@
 
 (To be appear) 
 
-XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games \\
+<ins>XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games</ins> \\
 **Jiayi Zhang**, Chenxin Sun, Chenxiong Qian
+
+- The very first exaplainable server-side anti-cheat solution.
+- Very generalized.
+- Strong detection performance.
+- Real-world large-scale datasets.
 
 [**[Artifacts]**](https://doi.org/10.5281/zenodo.17845614) \| [**[Demo website]**](https://xguardian-anti-cheat.github.io/)
 
@@ -22,6 +27,8 @@ XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games \\
 
 [Identify as a Human Does: A Pathfinder of Next-Generation Anti-Cheat Framework for First-Person Shooter Games](https://doi.org/10.1109/TIFS.2025.3635024) \\
 **Jiayi Zhang**, Chenxin Sun, Yue Gu, Qingyu Zhang, Jiayi Lin, Xiaojiang Du, Chenxiong Qian
+
+- The first server-side anti-cheat solution with real-world large-scale datasets.
 
 [**[arxiv]**](https://arxiv.org/pdf/2409.14830) \| [**[Artifacts]**](https://doi.org/10.6084/m9.figshare.25940818) \| [**[Demo website]**](https://hawk-anticheat.github.io/)
 
