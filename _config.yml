@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiayi Zhang"
-description              : "A game security researcher and a REAL FPS player."
+description              : ""
 repository               : "AXNTROYUANXD/AXNTROYUANXD.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiayi Zhang"
   avatar           : "images/profile_img.jpg"
-  bio              : "HKU"
+  bio              : "PhD candidate"
   location         : "Hong Kong"
   employer         : "HKU"
   pubmed           : 
