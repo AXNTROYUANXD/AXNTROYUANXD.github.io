@@ -1,15 +1,15 @@
 
 # 📖 Educations
-- *2024.04 - 2028.03*, PhD, The Univerisity of Hong Kong, Hong Kong. Advised by Prof. Chenxiong Qian.
-- *2022.09 - 2023.12*, Master, The Univerisity of Hong Kong, Hong Kong.
-- *2018.09 - 2022.06*, Bachelor, Beijing University of Posts and Telecommunications, Beijing; and Queen Mary University of London, London.
+- *2024.04 - 2028.03*: PhD, The Univerisity of Hong Kong, Hong Kong. Advised by Prof. Chenxiong Qian.
+- *2022.09 - 2023.12*: Master, The Univerisity of Hong Kong, Hong Kong.
+- *2018.09 - 2022.06*: Bachelor, Beijing University of Posts and Telecommunications, Beijing; and Queen Mary University of London, London.
 
 # 💬 Oral Presentations
 <!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
 - *2021.06*, Audio & Speech Synthesis, Huawei internal talk
 - *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
-- *2024.08*, Present Invisibility Cloak with Chenxin at USENIX Security '24 \| [\[video\]](https://www.youtube.com/watch?v=xDHZIsgqrmk/).
+- *2024.08*: Present Invisibility Cloak with Chenxin at USENIX Security '24 \| [**[Video]**](https://www.youtube.com/watch?v=xDHZIsgqrmk/).
 
 
 # 💻 Internships
@@ -19,4 +19,4 @@
 - *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
 - *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
 - *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou. -->
-- *2023.01 - 2024.03*, Research Assistant @ HKU - Game Security, Hong Kong.
+- *2023.01 - 2024.03*: Research Assistant @ HKU - Game Security, Hong Kong.
