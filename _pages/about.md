@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Jiayi Zhang"
+excerpt: "Jiayi Zhang is a PhD candidate at HKU, advised by Chenxiong Qian. His research interests include ML for game security and anti-cheat and cheat in FPS games. "
 author_profile: true
 redirect_from: 
   - /about/
