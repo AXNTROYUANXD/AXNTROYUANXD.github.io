@@ -16,7 +16,7 @@
 - Strong detection performance.
 - Real-world large-scale datasets.
 
-[**[Artifacts]**](https://doi.org/10.5281/zenodo.17845614) \| [**[Demo website]**](https://xguardian-anti-cheat.github.io/)
+[**[arxiv]**](https://arxiv.org/abs/2601.18068) \| [**[Artifacts]**](https://doi.org/10.5281/zenodo.17845614) \| [**[Demo website]**](https://xguardian-anti-cheat.github.io/)
 
 </div>
 </div>
