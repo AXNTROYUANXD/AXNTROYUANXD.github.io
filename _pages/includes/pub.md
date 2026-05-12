@@ -6,9 +6,7 @@
 <!-- [XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games](TBD) \\
 **Jiayi Zhang**, Chenxin Sun, Yue Gu, Qingyu Zhang, Jiayi Lin, Xiaojiang Du-->
 
-(To be appear) 
-
-<ins>XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games</ins> \\
+[XGuardian: Towards Generalized, Explainable and More Effective Server-side Anti-cheat in First-Person Shooter Games](https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-jiayi) \\
 **Jiayi Zhang**, Chenxin Sun, Chenxiong Qian
 
 - The very first exaplainable server-side anti-cheat solution.
@@ -16,7 +14,7 @@
 - Strong detection performance.
 - Real-world large-scale datasets.
 
-[**[arxiv]**](https://arxiv.org/abs/2601.18068) \| [**[Artifacts]**](https://doi.org/10.5281/zenodo.17845614) \| [**[Demo website]**](https://xguardian-anti-cheat.github.io/)
+[**[arxiv]**](https://arxiv.org/abs/2601.18068) \| [**[Artifacts]**](https://doi.org/10.5281/zenodo.17845613) \| [**[Demo website]**](https://xguardian-anti-cheat.github.io/)
 
 </div>
 </div>
