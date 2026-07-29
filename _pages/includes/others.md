@@ -27,8 +27,8 @@
 # 🧑‍🏫 Teaching
 
 ## TA
-- **COMP3278A - Introduction to Database Management Systems**. ([25/26](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2025/comp3278.html), 26/27)
-- **COMP7906A - Introduction to cyber security**. ([24/25](https://msccs.cs.hku.hk/public/courses/2024/COMP7906A/))
+- **COMP3278A - Introduction to Database Management Systems**. [[25/26](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2025/comp3278.html), 26/27]
+- **COMP7906A - Introduction to cyber security**. [[24/25](https://msccs.cs.hku.hk/public/courses/2024/COMP7906A/)]
 
 <!-- # 🛡️ Patent
 - TBA -->
