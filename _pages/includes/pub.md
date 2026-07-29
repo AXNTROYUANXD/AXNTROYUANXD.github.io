@@ -38,7 +38,7 @@
 
 - The first server-side anti-cheat solution with real-world large-scale datasets.
 
-[**[arxiv]**](https://arxiv.org/pdf/2409.14830) \| [**[Artifacts]**](https://doi.org/10.6084/m9.figshare.25940818) \| <span class="artifact-download-badge"><img class="artifact-download-badge__icon" src="{{ '/images/icons/figshare.svg' | relative_url }}" alt="" aria-hidden="true"><a href="https://doi.org/10.6084/m9.figshare.25940818"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.figshare.com%2Ftotal%2Fdownloads%2Farticle%2F25940818&amp;query=%24.totals&amp;label=Downloads&amp;style=social&amp;logo=figshare&amp;logoColor=transparent&amp;cacheSeconds=300" alt="Downloads"></a></span> \| [**[Demo website]**](https://hawk-anticheat.github.io/) \| <button type="button" class="cite-button" data-bibtex-target="bibtex-hawk">[Cite]</button>
+[**[arxiv]**](https://arxiv.org/pdf/2409.14830) \| [**[Artifacts]**](https://doi.org/10.6084/m9.figshare.25940818) \| <span class="artifact-download-badge"><img class="artifact-download-badge__icon" src="{{ '/images/icons/figshare.png' | relative_url }}" alt="" aria-hidden="true"><a href="https://doi.org/10.6084/m9.figshare.25940818"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstats.figshare.com%2Ftotal%2Fdownloads%2Farticle%2F25940818&amp;query=%24.totals&amp;label=Downloads&amp;style=social&amp;logo=figshare&amp;logoColor=transparent&amp;cacheSeconds=300" alt="Downloads"></a></span> \| [**[Demo website]**](https://hawk-anticheat.github.io/) \| <button type="button" class="cite-button" data-bibtex-target="bibtex-hawk">[Cite]</button>
 
 <template id="bibtex-hawk">
 @article{zhang2026hawk,
