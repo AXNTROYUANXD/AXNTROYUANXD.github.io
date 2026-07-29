@@ -1,10 +1,10 @@
 
-# 🎓 Educations
+# 🎓 Education
 - *2024.04 - 2028.03*: PhD, The Univerisity of Hong Kong, Hong Kong. Advised by Chenxiong Qian.
 - *2022.09 - 2023.12*: Master, The Univerisity of Hong Kong, Hong Kong.
 - *2018.09 - 2022.06*: Bachelor, Beijing University of Posts and Telecommunications, Beijing; and Queen Mary University of London, London.
 
-# 💬 Talks
+# 💬 Talk
 <!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
 - *2021.06*, Audio & Speech Synthesis, Huawei internal talk
 - *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
@@ -12,7 +12,7 @@
 - *2024.08*: Present Invisibility Cloak with Chenxin at USENIX Security '24 \| [**[Video]**](https://www.youtube.com/watch?v=xDHZIsgqrmk/).
 
 
-# 👨🏻‍💻 Internships
+# 👨🏻‍💻 Internship
 <!-- - *2021.06 - 2021.09*, Alibaba, Hangzhou.
 - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
 - *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
@@ -21,5 +21,14 @@
 - *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou. -->
 - *2023.01 - 2024.03*: Research Assistant @ HKU - Game Security, Hong Kong.
 
-# 🛎️ Services
-- **ACSAC 2023**: AE Reviewer.
+# 🛎️ Service
+- [**ACSAC 2023**](https://www.acsac.org/2023/committees/artifacts/): AE Reviewer.
+
+# 🧑‍🏫 Teaching
+
+## TA
+- **COMP3278A - Introduction to Database Management Systems** [**25/26**](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2025/comp3278.html), 26/27.
+- **COMP7906A - Introduction to cyber security** [**24/25**](https://msccs.cs.hku.hk/public/courses/2024/COMP7906A/).
+
+<!-- # 🛡️ Patent
+- TBA -->

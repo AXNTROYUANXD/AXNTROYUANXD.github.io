@@ -15,6 +15,8 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
+<script src="{{ '/assets/js/citations.js' | relative_url }}"></script>
+
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}

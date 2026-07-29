@@ -14,7 +14,17 @@
 - Strong detection performance.
 - Real-world large-scale datasets.
 
-[**[arxiv]**](https://arxiv.org/abs/2601.18068) \| [**[Artifacts]**](https://doi.org/10.5281/zenodo.17845613) \| [**[Demo website]**](https://xguardian-anti-cheat.github.io/)
+[**[arxiv]**](https://arxiv.org/abs/2601.18068) \| [**[Artifacts]**](https://doi.org/10.5281/zenodo.17845613) \| [**[Demo website]**](https://xguardian-anti-cheat.github.io/) \| <button type="button" class="cite-button" data-bibtex-target="bibtex-xguardian">[Cite]</button>
+
+<template id="bibtex-xguardian">
+@inproceedings{zhang2026xguardian,
+  title={XGuardian: Towards Generalized, Explainable and More Effective Server-side Anti-cheat in First-Person Shooter Games},
+  author={Zhang, Jiayi and Sun, Chenxin and Qian, Chenxiong},
+  booktitle={35th USENIX Security Symposium (USENIX Security 26)},
+  year={2026},
+  url={https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-jiayi}
+}
+</template>
 
 </div>
 </div>
@@ -28,13 +38,36 @@
 
 - The first server-side anti-cheat solution with real-world large-scale datasets.
 
-[**[arxiv]**](https://arxiv.org/pdf/2409.14830) \| [**[Artifacts]**](https://doi.org/10.6084/m9.figshare.25940818) \| [**[Demo website]**](https://hawk-anticheat.github.io/)
+[**[arxiv]**](https://arxiv.org/pdf/2409.14830) \| [**[Artifacts]**](https://doi.org/10.6084/m9.figshare.25940818) \| [**[Demo website]**](https://hawk-anticheat.github.io/) \| <button type="button" class="cite-button" data-bibtex-target="bibtex-hawk">[Cite]</button>
+
+<template id="bibtex-hawk">
+@article{zhang2026hawk,
+  title={Identify as a Human Does: A Pathfinder of Next-Generation Anti-Cheat Framework for First-Person Shooter Games},
+  author={Zhang, Jiayi and Sun, Chenxin and Gu, Yue and Zhang, Qingyu and Lin, Jiayi and Du, Xiaojiang and Qian, Chenxiong},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={21},
+  pages={240--255},
+  year={2026},
+  doi={10.1109/TIFS.2025.3635024}
+}
+</template>
 
 </div>
 </div>
 
 ## 👥 Co-author
-- ``USENIX Security 2024`` [Invisibility Cloak: Proactive Defense Against Visual Game Cheating](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-chenxin), Chenxin Sun, Kai Ye, Liangcai Su, **Jiayi Zhang**, Chenxiong Qian \| [**[Slides]**](https://www.usenix.org/system/files/usenixsecurity24_slides-sun-chenxin.pdf) \| [**[Website]**](https://inviscloak.github.io/) \| [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/inviscloak/inviscloak.github.io)
+- ``USENIX Security 2024`` [Invisibility Cloak: Proactive Defense Against Visual Game Cheating](https://www.usenix.org/conference/usenixsecurity24/presentation/sun-chenxin), Chenxin Sun, Kai Ye, Liangcai Su, **Jiayi Zhang**, Chenxiong Qian \| [**[Slides]**](https://www.usenix.org/system/files/usenixsecurity24_slides-sun-chenxin.pdf) \| [**[Website]**](https://inviscloak.github.io/) \| [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/inviscloak/inviscloak.github.io) \| <button type="button" class="cite-button" data-bibtex-target="bibtex-invisibility-cloak">[Cite]</button>
+
+<template id="bibtex-invisibility-cloak">
+@inproceedings{sun2024invisibility,
+  title={Invisibility Cloak: Proactive Defense Against Visual Game Cheating},
+  author={Sun, Chenxin and Ye, Kai and Su, Liangcai and Zhang, Jiayi and Qian, Chenxiong},
+  booktitle={33rd USENIX Security Symposium (USENIX Security 24)},
+  pages={3045--3061},
+  year={2024},
+  url={https://www.usenix.org/conference/usenixsecurity24/presentation/sun-chenxin}
+}
+</template>
 
 <!-- 
 # 📝 Publications 

@@ -123,3 +123,53 @@ h1:before, .anchor:before {
 
 code.language-plaintext.highlighter-rouge {
 }
+
+.cite-button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: #52adc8;
+    background: transparent;
+    font: inherit;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+
+    &:hover,
+    &:focus {
+        color: #1f8ab5;
+    }
+}
+
+.cv-actions {
+    margin-bottom: 1.25rem;
+}
+
+.cv-download {
+    display: inline-block;
+    padding: .55rem .9rem;
+    border-radius: .25rem;
+    color: #ffffff;
+    background: #52adc8;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+        color: #ffffff;
+        background: #1f8ab5;
+    }
+}
+
+.cv-preview {
+    display: block;
+    width: 100%;
+    min-height: 75vh;
+    border: 1px solid #d9d9d9;
+}
+
+@media (max-width: 37.5em) {
+    .cv-preview {
+        min-height: 65vh;
+    }
+}
