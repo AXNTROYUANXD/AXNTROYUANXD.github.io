@@ -1,0 +1,34 @@
+<script>
+(function () {
+  var localHosts = ["localhost", "127.0.0.1", "::1"];
+  if (localHosts.indexOf(window.location.hostname) !== -1) {
+    return;
+  }
+
+  fetch("{{ '/assets/data/visitor-stats.json' | relative_url }}", {
+    credentials: "omit",
+    cache: "no-cache"
+  })
+    .then(function (response) {
+      if (!response.ok) {
+        throw new Error("Visitor analytics configuration is unavailable");
+      }
+      return response.json();
+    })
+    .then(function (config) {
+      var siteCode = String(config.site_code || "").trim().toLowerCase();
+      if (!config.configured || !/^[a-z0-9-]+$/.test(siteCode)) {
+        return;
+      }
+
+      var tracker = document.createElement("script");
+      tracker.async = true;
+      tracker.src = "https://gc.zgo.at/count.js";
+      tracker.dataset.goatcounter = "https://" + siteCode + ".goatcounter.com/count";
+      document.body.appendChild(tracker);
+    })
+    .catch(function () {
+      // Analytics must never interfere with the page.
+    });
+})();
+</script>

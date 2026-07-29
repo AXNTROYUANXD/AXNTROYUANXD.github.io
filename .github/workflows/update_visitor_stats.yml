@@ -1,0 +1,39 @@
+name: Update visitor statistics
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-visitor-statistics
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      GOATCOUNTER_SITE_CODE: axntroyuanxd
+      GOATCOUNTER_API_TOKEN: ${{ secrets.GOATCOUNTER_API_TOKEN }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Export aggregate statistics
+        run: node scripts/update-goatcounter-stats.mjs
+
+      - name: Publish changed statistics
+        run: |
+          if git diff --quiet -- assets/data/visitor-stats.json; then
+            echo "No visitor statistics changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/visitor-stats.json
+          git commit -m "chore: update visitor statistics"
+          git push
