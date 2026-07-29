@@ -173,3 +173,26 @@ code.language-plaintext.highlighter-rouge {
         min-height: 65vh;
     }
 }
+
+.artifact-download-badge {
+  display: inline-block;
+  position: relative;
+  height: 20px;
+  vertical-align: -0.35em;
+}
+
+.artifact-download-badge > a,
+.artifact-download-badge > a > img {
+  display: block;
+  height: 20px;
+}
+
+.artifact-download-badge__icon {
+  position: absolute;
+  z-index: 1;
+  top: 3px;
+  left: 5px;
+  width: 14px;
+  height: 14px;
+  pointer-events: none;
+}
