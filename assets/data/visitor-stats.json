@@ -1,7 +1,13 @@
 {
   "configured": true,
   "site_code": "axntroyuanxd",
-  "total": 0,
-  "locations": [],
-  "updated_at": null
+  "total": 1,
+  "locations": [
+    {
+      "code": "US",
+      "name": "United States",
+      "count": 1
+    }
+  ],
+  "updated_at": "2026-07-29T16:05:31.175Z"
 }
