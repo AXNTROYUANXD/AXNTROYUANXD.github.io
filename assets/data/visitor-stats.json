@@ -1,13 +1,18 @@
 {
   "configured": true,
   "site_code": "axntroyuanxd",
-  "total": 4,
+  "total": 8,
   "locations": [
     {
       "code": "US",
       "name": "United States",
+      "count": 6
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
       "count": 2
     }
   ],
-  "updated_at": "2026-07-30T05:51:54.780Z"
+  "updated_at": "2026-08-01T06:07:13.637Z"
 }
