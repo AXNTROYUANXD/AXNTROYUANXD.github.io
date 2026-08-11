@@ -1,7 +1,7 @@
 {
   "configured": true,
   "site_code": "axntroyuanxd",
-  "total": 21,
+  "total": 22,
   "locations": [
     {
       "code": "HK",
@@ -22,7 +22,12 @@
       "code": "KR",
       "name": "South Korea",
       "count": 2
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "count": 1
     }
   ],
-  "updated_at": "2026-08-07T05:01:16.941Z"
+  "updated_at": "2026-08-11T04:37:24.910Z"
 }
