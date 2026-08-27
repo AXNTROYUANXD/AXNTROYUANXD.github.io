@@ -197,6 +197,31 @@ code.language-plaintext.highlighter-rouge {
   pointer-events: none;
 }
 
+.paper-resource-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .35rem .65rem;
+  margin: 1em 0;
+}
+
+.paper-resource-links__item {
+  display: inline-flex;
+  align-items: center;
+  max-width: 100%;
+  white-space: nowrap;
+}
+
+.paper-resource-links__item--artifacts {
+  gap: .25rem;
+}
+
+@media (max-width: 37.5em) {
+  .paper-resource-links {
+    gap: .3rem .55rem;
+  }
+}
+
 .visitor-dashboard__intro {
   max-width: 48rem;
   margin: 0 0 1.5rem;

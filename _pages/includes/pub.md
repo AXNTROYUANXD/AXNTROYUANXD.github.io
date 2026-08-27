@@ -14,7 +14,15 @@
 - Strong detection performance.
 - Real-world large-scale datasets.
 
-[**[arxiv]**](https://arxiv.org/abs/2601.18068) \| [**[Artifacts]**](https://doi.org/10.5281/zenodo.17845613) <span class="artifact-download-badge"><img class="artifact-download-badge__icon" src="{{ '/images/icons/zenodo.svg' | relative_url }}" alt="" aria-hidden="true"><a href="https://doi.org/10.5281/zenodo.17845613"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenodo.org%2Fapi%2Frecords%2F17845613&amp;query=%24.stats.downloads&amp;label=Downloads&amp;style=social&amp;logo=zenodo&amp;logoColor=transparent&amp;cacheSeconds=300" alt="Downloads"></a></span> \| [**[Demo website]**](https://xguardian-anti-cheat.github.io/) \| [**[Poster]**]({{ '/files/XGuardian_USENIX_poster.pdf' | relative_url }}) \| [**[Slides]**]({{ '/files/sec26_slides_141913_zhang-jiayi.pdf' | relative_url }}) \| <button type="button" class="cite-button" data-bibtex-target="bibtex-xguardian">[Cite]</button>
+<div class="paper-resource-links" role="group" aria-label="XGuardian resources">
+  <span class="paper-resource-links__item"><a href="https://arxiv.org/abs/2601.18068"><strong>[arxiv]</strong></a></span>
+  <span class="paper-resource-links__item paper-resource-links__item--artifacts"><a href="https://doi.org/10.5281/zenodo.17845613"><strong>[Artifacts]</strong></a><span class="artifact-download-badge"><img class="artifact-download-badge__icon" src="{{ '/images/icons/zenodo.svg' | relative_url }}" alt="" aria-hidden="true"><a href="https://doi.org/10.5281/zenodo.17845613"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenodo.org%2Fapi%2Frecords%2F17845613&amp;query=%24.stats.downloads&amp;label=Downloads&amp;style=social&amp;logo=zenodo&amp;logoColor=transparent&amp;cacheSeconds=300" alt="Downloads"></a></span></span>
+  <span class="paper-resource-links__item"><a href="{{ '/files/XGuardian_USENIX_artifact_appendix.pdf' | relative_url }}"><strong>[Artifact Appendix]</strong></a></span>
+  <span class="paper-resource-links__item"><a href="https://xguardian-anti-cheat.github.io/"><strong>[Demo website]</strong></a></span>
+  <span class="paper-resource-links__item"><a href="{{ '/files/XGuardian_USENIX_poster.pdf' | relative_url }}"><strong>[Poster]</strong></a></span>
+  <span class="paper-resource-links__item"><a href="{{ '/files/sec26_slides_141913_zhang-jiayi.pdf' | relative_url }}"><strong>[Slides]</strong></a></span>
+  <span class="paper-resource-links__item"><button type="button" class="cite-button" data-bibtex-target="bibtex-xguardian">[Cite]</button></span>
+</div>
 
 <template id="bibtex-xguardian">
 @inproceedings{zhang2026xguardian,
