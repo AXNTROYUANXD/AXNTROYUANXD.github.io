@@ -201,7 +201,8 @@ code.language-plaintext.highlighter-rouge {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: .35rem .65rem;
+  row-gap: .35rem;
+  column-gap: 0;
   margin: 1em 0;
 }
 
@@ -213,12 +214,23 @@ code.language-plaintext.highlighter-rouge {
 }
 
 .paper-resource-links__item--artifacts {
-  gap: .25rem;
+  .artifact-download-badge {
+    margin-left: .25rem;
+  }
+}
+
+.paper-resource-links__separator {
+  flex: 0 0 auto;
+  margin: 0 .55rem;
 }
 
 @media (max-width: 37.5em) {
   .paper-resource-links {
-    gap: .3rem .55rem;
+    row-gap: .3rem;
+  }
+
+  .paper-resource-links__separator {
+    margin: 0 .45rem;
   }
 }
 
