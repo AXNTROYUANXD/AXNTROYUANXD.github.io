@@ -199,11 +199,19 @@ code.language-plaintext.highlighter-rouge {
 
 .paper-resource-links {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .35rem;
+  margin: 1em 0;
+}
+
+.paper-resource-links__row {
+  display: flex;
   flex-wrap: wrap;
   align-items: center;
-  row-gap: .35rem;
-  column-gap: 0;
-  margin: 1em 0;
+  justify-content: center;
+  gap: .35rem .75rem;
+  max-width: 100%;
 }
 
 .paper-resource-links__item {
@@ -219,18 +227,14 @@ code.language-plaintext.highlighter-rouge {
   }
 }
 
-.paper-resource-links__separator {
-  flex: 0 0 auto;
-  margin: 0 .55rem;
-}
-
 @media (max-width: 37.5em) {
   .paper-resource-links {
-    row-gap: .3rem;
+    gap: .3rem;
   }
 
-  .paper-resource-links__separator {
-    margin: 0 .45rem;
+  .paper-resource-links__row {
+    width: 100%;
+    gap: .3rem .55rem;
   }
 }
 
