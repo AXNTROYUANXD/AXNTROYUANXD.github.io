@@ -29,12 +29,15 @@
 </div>
 
 <template id="bibtex-xguardian">
-@inproceedings{zhang2026xguardian,
-  title={XGuardian: Towards Generalized, Explainable and More Effective Server-side Anti-cheat in First-Person Shooter Games},
-  author={Zhang, Jiayi and Sun, Chenxin and Qian, Chenxiong},
-  booktitle={35th USENIX Security Symposium (USENIX Security 26)},
-  year={2026},
-  url={https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-jiayi}
+@inproceedings {zhang2026xguardian,
+author = {Jiayi Zhang and Chenxin Sun and Chenxiong Qian},
+title = {XGuardian: Towards Generalized, Explainable and More Effective Server-side Anti-cheat in First-Person Shooter Games},
+booktitle = {35th USENIX Security Symposium (USENIX Security 26)},
+year = {2026},
+address = {Baltimore, MD},
+url = {https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-jiayi},
+publisher = {USENIX Association},
+month = aug
 }
 </template>
 
