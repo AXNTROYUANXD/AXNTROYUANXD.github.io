@@ -24,6 +24,14 @@ const headers = {
   Authorization: `Bearer ${apiToken}`
 };
 
+class ApiError extends Error {
+  constructor(path, status) {
+    super(`${path} returned HTTP ${status}`);
+    this.path = path;
+    this.status = status;
+  }
+}
+
 async function getJson(path, parameters = {}) {
   const url = new URL(`${apiRoot}/${path}`);
   Object.entries(parameters).forEach(([key, value]) => {
@@ -32,7 +40,7 @@ async function getJson(path, parameters = {}) {
 
   const response = await fetch(url, { headers });
   if (!response.ok) {
-    throw new Error(`${path} returned HTTP ${response.status}`);
+    throw new ApiError(path, response.status);
   }
   return response.json();
 }
@@ -42,12 +50,25 @@ async function getAllLocations() {
   let offset = 0;
 
   while (true) {
-    const page = await getJson("stats/locations", {
-      start,
-      end,
-      limit: 100,
-      offset
-    });
+    let page;
+    try {
+      page = await getJson("stats/locations", {
+        start,
+        end,
+        limit: 100,
+        offset
+      });
+    } catch (error) {
+      // Some GoatCounter installations do not expose the locations report.
+      // Keep publishing total traffic in that case instead of failing the job.
+      if (error instanceof ApiError && error.status === 404) {
+        console.warn(
+          "GoatCounter stats/locations is unavailable (HTTP 404); publishing totals without location data."
+        );
+        return [];
+      }
+      throw error;
+    }
     const rows = Array.isArray(page.stats) ? page.stats : [];
     locations.push(...rows);
 
