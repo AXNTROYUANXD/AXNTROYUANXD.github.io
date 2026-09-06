@@ -1,7 +1,38 @@
 {
   "configured": true,
   "site_code": "axntroyuanxd",
-  "total": 64,
-  "locations": [],
-  "updated_at": "2026-09-05T07:37:29.297Z"
+  "total": 65,
+  "locations": [
+    {
+      "code": "HK",
+      "name": "Hong Kong SAR China",
+      "count": 34
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "count": 23
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "count": 3
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "count": 2
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "count": 1
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "count": 1
+    }
+  ],
+  "updated_at": "2026-09-06T07:53:02.877Z"
 }
