@@ -89,13 +89,6 @@
           color: "#ffffff",
           width: 0.5
         }
-      },
-      colorbar: {
-        title: {
-          text: "Visits"
-        },
-        thickness: 12,
-        outlinewidth: 0
       }
     };
 
@@ -119,7 +112,7 @@
         oceancolor: "#f8fbfc",
         projection: {
           type: "natural earth",
-          scale: 1.35
+          scale: 1
         }
       }
     };

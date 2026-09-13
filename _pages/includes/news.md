@@ -1,4 +1,4 @@
-# 👀 News
+# News
 <!-- - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
 - *2023.05*: 🎉 Five papers are accepted by ACL 2023
 - *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
