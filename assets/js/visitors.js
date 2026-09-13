@@ -103,16 +103,23 @@
       margin: { top: 0, right: 0, bottom: 0, left: 0 },
       paper_bgcolor: "rgba(0,0,0,0)",
       plot_bgcolor: "rgba(0,0,0,0)",
+      dragmode: false,
       geo: {
+        scope: "world",
+        fitbounds: false,
         showframe: false,
         showcoastlines: true,
         coastlinecolor: "#c8d3d8",
+        showcountries: true,
+        countrycolor: "#c8d3d8",
+        countrywidth: 0.6,
         showland: true,
         landcolor: "#f4f6f7",
         showocean: true,
         oceancolor: "#f8fbfc",
         projection: {
-          type: "natural earth"
+          type: "natural earth",
+          scale: 1.05
         }
       }
     };
@@ -123,6 +130,7 @@
       responsive: true,
       displayModeBar: false,
       scrollZoom: false,
+      doubleClick: false,
       showLink: false
     });
     statusElement.textContent = "Aggregated by location";
