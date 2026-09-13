@@ -77,6 +77,7 @@
       z: locations.map(function (location) { return location.count; }),
       text: locations.map(function (location) { return location.name; }),
       hovertemplate: "%{text}<br>%{z:,} visits<extra></extra>",
+      showscale: false,
       colorscale: [
         [0, "#eaf6f9"],
         [0.25, "#b9e1ea"],
