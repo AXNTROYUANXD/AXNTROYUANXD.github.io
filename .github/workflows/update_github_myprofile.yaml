@@ -5,7 +5,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
@@ -13,11 +13,29 @@ jobs:
       run: |
         cd ./github_myprofile_updater
         python3 update.py
+
+        # This repository is a fork of the original template. Do not push
+        # generated content to the template author's profile repository.
+        profile_repo="${GITHUB_REPOSITORY_OWNER}/${GITHUB_REPOSITORY_OWNER}"
+        if [ -z "${{ secrets.GHRS_GITHUB_API_TOKEN }}" ]; then
+          echo "Skipping profile update: GHRS_GITHUB_API_TOKEN is not configured."
+          exit 0
+        fi
+
+        remote_repo="https://x-access-token:${{ secrets.GHRS_GITHUB_API_TOKEN }}@github.com/${profile_repo}.git"
+        if ! git ls-remote "$remote_repo" >/dev/null 2>&1; then
+          echo "Skipping profile update: ${profile_repo} is not available or the token has no access."
+          exit 0
+        fi
+
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "rayeren613@gmail.com"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GHRS_GITHUB_API_TOKEN }}@github.com/RayeRen/RayeRen.git"
         git add README.md
         git add images
+        if git diff --cached --quiet; then
+          echo "No profile changes to publish."
+          exit 0
+        fi
         git commit -m "update my description automatically"
         git push "${remote_repo}" HEAD:main --force
