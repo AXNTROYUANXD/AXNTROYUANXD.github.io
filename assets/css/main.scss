@@ -168,6 +168,13 @@ code.language-plaintext.highlighter-rouge {
     border: 1px solid #d9d9d9;
 }
 
+.cv-last-update {
+    margin: .75rem 0 0;
+    color: #748087;
+    font-size: .8rem;
+    text-align: center;
+}
+
 @media (max-width: 37.5em) {
     .cv-preview {
         min-height: 65vh;

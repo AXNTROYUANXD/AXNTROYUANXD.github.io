@@ -13,3 +13,5 @@ author_profile: true
 <iframe class="cv-preview" src="{{ '/files/Jiayi_Zhang_CV.pdf' | relative_url }}#view=FitH" title="Jiayi Zhang CV">
   Your browser does not support embedded PDFs. Please <a href="{{ '/files/Jiayi_Zhang_CV.pdf' | relative_url }}">download the CV PDF</a>.
 </iframe>
+
+<p class="cv-last-update">Last Update: September 2026</p>
