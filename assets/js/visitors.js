@@ -119,7 +119,7 @@
         oceancolor: "#f8fbfc",
         projection: {
           type: "natural earth",
-          scale: 1.05
+          scale: 1.35
         }
       }
     };
