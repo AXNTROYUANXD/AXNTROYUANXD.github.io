@@ -50,25 +50,12 @@ async function getAllLocations() {
   let offset = 0;
 
   while (true) {
-    let page;
-    try {
-      page = await getJson("stats/locations", {
-        start,
-        end,
-        limit: 100,
-        offset
-      });
-    } catch (error) {
-      // Some GoatCounter installations do not expose the locations report.
-      // Keep publishing total traffic in that case instead of failing the job.
-      if (error instanceof ApiError && error.status === 404) {
-        console.warn(
-          "GoatCounter stats/locations is unavailable (HTTP 404); publishing totals without location data."
-        );
-        return [];
-      }
-      throw error;
-    }
+    const page = await getJson("stats/locations", {
+      start,
+      end,
+      limit: 100,
+      offset
+    });
     const rows = Array.isArray(page.stats) ? page.stats : [];
     locations.push(...rows);
 
