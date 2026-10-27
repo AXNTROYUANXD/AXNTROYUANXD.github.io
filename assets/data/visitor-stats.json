@@ -1,12 +1,12 @@
 {
   "configured": true,
   "site_code": "axntroyuanxd",
-  "total": 211,
+  "total": 214,
   "locations": [
     {
       "code": "HK",
       "name": "Hong Kong SAR China",
-      "count": 106
+      "count": 108
     },
     {
       "code": "US",
@@ -74,5 +74,5 @@
       "count": 1
     }
   ],
-  "updated_at": "2026-10-26T08:48:48.619Z"
+  "updated_at": "2026-10-27T08:54:44.437Z"
 }
