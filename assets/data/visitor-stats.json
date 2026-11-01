@@ -1,7 +1,7 @@
 {
   "configured": true,
   "site_code": "axntroyuanxd",
-  "total": 218,
+  "total": 219,
   "locations": [
     {
       "code": "HK",
@@ -11,7 +11,7 @@
     {
       "code": "US",
       "name": "United States",
-      "count": 65
+      "count": 66
     },
     {
       "code": "CN",
@@ -74,5 +74,5 @@
       "count": 1
     }
   ],
-  "updated_at": "2026-10-31T09:32:46.496Z"
+  "updated_at": "2026-11-01T10:23:21.964Z"
 }
