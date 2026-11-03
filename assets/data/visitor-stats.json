@@ -1,7 +1,7 @@
 {
   "configured": true,
   "site_code": "axntroyuanxd",
-  "total": 226,
+  "total": 227,
   "locations": [
     {
       "code": "HK",
@@ -44,6 +44,11 @@
       "count": 2
     },
     {
+      "code": "AU",
+      "name": "Australia",
+      "count": 1
+    },
+    {
       "code": "BY",
       "name": "Belarus",
       "count": 1
@@ -74,5 +79,5 @@
       "count": 1
     }
   ],
-  "updated_at": "2026-11-02T10:56:25.073Z"
+  "updated_at": "2026-11-03T10:46:00.141Z"
 }
