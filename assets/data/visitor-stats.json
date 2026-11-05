@@ -1,7 +1,7 @@
 {
   "configured": true,
   "site_code": "axntroyuanxd",
-  "total": 227,
+  "total": 229,
   "locations": [
     {
       "code": "HK",
@@ -11,7 +11,7 @@
     {
       "code": "US",
       "name": "United States",
-      "count": 66
+      "count": 67
     },
     {
       "code": "CN",
@@ -39,14 +39,14 @@
       "count": 3
     },
     {
-      "code": "CA",
-      "name": "Canada",
+      "code": "AU",
+      "name": "Australia",
       "count": 2
     },
     {
-      "code": "AU",
-      "name": "Australia",
-      "count": 1
+      "code": "CA",
+      "name": "Canada",
+      "count": 2
     },
     {
       "code": "BY",
@@ -79,5 +79,5 @@
       "count": 1
     }
   ],
-  "updated_at": "2026-11-04T10:49:41.892Z"
+  "updated_at": "2026-11-05T10:46:39.805Z"
 }
