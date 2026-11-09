@@ -17,8 +17,9 @@
 <div class="paper-resource-links paper-resource-links--xguardian" role="group" aria-label="XGuardian resources">
   <div class="paper-resource-links__row">
     <span class="paper-resource-links__item"><a href="https://arxiv.org/abs/2601.18068"><strong>[arxiv]</strong></a></span>
+    <span class="paper-resource-links__item"><a href="https://www.usenix.org/system/files/usenixsecurity26-zhang-jiayi.pdf"><strong>[Published Version]</strong></a></span>
     <span class="paper-resource-links__item paper-resource-links__item--artifacts"><a href="https://doi.org/10.5281/zenodo.17845613"><strong>[Artifacts]</strong></a><span class="artifact-download-badge"><img class="artifact-download-badge__icon" src="{{ '/images/icons/zenodo.svg' | relative_url }}" alt="" aria-hidden="true"><a href="https://doi.org/10.5281/zenodo.17845613"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenodo.org%2Fapi%2Frecords%2F17845613&amp;query=%24.stats.downloads&amp;label=Downloads&amp;style=social&amp;logo=zenodo&amp;logoColor=transparent&amp;cacheSeconds=300" alt="Downloads"></a></span></span>
-    <span class="paper-resource-links__item"><a href="https://axntroyuanxd.github.io/files/XGuardian_USENIX_artifact_appendix.pdf"><strong>[Artifact Appendix]</strong></a></span>
+    <span class="paper-resource-links__item"><a href="https://www.usenix.org/system/files/usenixsecurity26-artifact-zhang-jiayi.pdf"><strong>[Artifact Appendix]</strong></a></span>
   </div>
   <div class="paper-resource-links__row">
     <span class="paper-resource-links__item"><a href="https://xguardian-anti-cheat.github.io/"><strong>[Demo website]</strong></a></span>
@@ -31,10 +32,12 @@
 <template id="bibtex-xguardian">
 @inproceedings {zhang2026xguardian,
 author = {Jiayi Zhang and Chenxin Sun and Chenxiong Qian},
-title = {XGuardian: Towards Generalized, Explainable and More Effective Server-side Anti-cheat in First-Person Shooter Games},
+title = {{XGuardian}: Towards Generalized, Explainable and More Effective Server-side Anti-cheat in {First-Person} Shooter Games},
 booktitle = {35th USENIX Security Symposium (USENIX Security 26)},
 year = {2026},
+isbn = {978-1-939133-58-8},
 address = {Baltimore, MD},
+pages = {7075--7094},
 url = {https://www.usenix.org/conference/usenixsecurity26/presentation/zhang-jiayi},
 publisher = {USENIX Association},
 month = aug
