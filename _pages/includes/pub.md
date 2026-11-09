@@ -32,7 +32,7 @@
 <template id="bibtex-xguardian">
 @inproceedings {zhang2026xguardian,
 author = {Jiayi Zhang and Chenxin Sun and Chenxiong Qian},
-title = {{XGuardian}: Towards Generalized, Explainable and More Effective Server-side Anti-cheat in {First-Person} Shooter Games},
+title = {XGuardian: Towards Generalized, Explainable and More Effective Server-side Anti-cheat in First-Person Shooter Games},
 booktitle = {35th USENIX Security Symposium (USENIX Security 26)},
 year = {2026},
 isbn = {978-1-939133-58-8},
