@@ -1,7 +1,7 @@
 {
   "configured": true,
   "site_code": "axntroyuanxd",
-  "total": 245,
+  "total": 246,
   "locations": [
     {
       "code": "HK",
@@ -19,14 +19,14 @@
       "count": 13
     },
     {
-      "code": "SG",
-      "name": "Singapore",
+      "code": "JP",
+      "name": "Japan",
       "count": 8
     },
     {
-      "code": "JP",
-      "name": "Japan",
-      "count": 7
+      "code": "SG",
+      "name": "Singapore",
+      "count": 8
     },
     {
       "code": "KR",
@@ -84,5 +84,5 @@
       "count": 1
     }
   ],
-  "updated_at": "2026-11-20T11:28:03.344Z"
+  "updated_at": "2026-11-21T10:55:29.291Z"
 }
